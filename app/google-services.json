@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182471358528",
+    "project_id": "javafcm-81ed5",
+    "storage_bucket": "javafcm-81ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182471358528:android:ae5764971b9eb6266047a5",
+        "android_client_info": {
+          "package_name": "com.example.javafcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182471358528-tcsg421lrqb6spnvp2nkp01s9uvnasl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhyWgp3RPGzt7d1GiFVj9_A27j9Lm3E-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182471358528-tcsg421lrqb6spnvp2nkp01s9uvnasl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
